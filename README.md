@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kayylmar
-- 👀 I’m interested in Web Develop
+- 👀 I’m interested in Full Stack
 - 🌱 I’m currently learning Data Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
