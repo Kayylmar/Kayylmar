@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kayylmar
 - 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning Data Analyst
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
