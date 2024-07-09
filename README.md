@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Kayylmar
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img alt ="my stats" align src="github-readne-stats.vercell.app/api?username=Kayylmar"/>
 
 <!---
 Kayylmar/Kayylmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
